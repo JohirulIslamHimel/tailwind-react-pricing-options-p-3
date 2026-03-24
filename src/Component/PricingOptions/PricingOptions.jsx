@@ -3,7 +3,7 @@ import PricingCard from "../PricingCard/PricingCard";
 
 const PricingOptions = ({ pricingPromise }) => {
   const pricingData = use(pricingPromise);
-  console.log(pricingData);
+  // console.log(pricingData);
   return (
     <div>
       <h2 className="text-5xl">Get our Membership</h2>

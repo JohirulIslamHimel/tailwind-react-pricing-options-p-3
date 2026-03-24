@@ -1,0 +1,47 @@
+[
+  {
+    "student_id": 1,
+    "name": "Rahim Ahmed",
+    "marks": {
+      "physics": 78,
+      "chemistry": 72,
+      "math": 85
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Karim Hasan",
+    "marks": {
+      "physics": 65,
+      "chemistry": 70,
+      "math": 68
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Nusrat Jahan",
+    "marks": {
+      "physics": 88,
+      "chemistry": 82,
+      "math": 91
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "Tanvir Islam",
+    "marks": {
+      "physics": 55,
+      "chemistry": 60,
+      "math": 58
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Sadia Rahman",
+    "marks": {
+      "physics": 92,
+      "chemistry": 89,
+      "math": 95
+    }
+  }
+]
